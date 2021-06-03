@@ -1,6 +1,6 @@
 # Olá, seja bem vindo(a), me chamo Guilherme Xavier Souza
 
-## Atualmente sou aluno na Etec Jardim Ângela no curso técnico de desenvolvimentos de Sistema(DS), estudante de Inglês pela plataforma Kultivi, e curso o segundo ano do Ensino Médio
+## Atualmente sou aluno na Etec Jardim Ângela no curso técnico de desenvolvimento de Sistemas(DSI), estudante de Inglês pela plataforma Kultivi, e curso o segundo ano do Ensino Médio
 
 * Moro no Brasil / São Paulo / Capital :earth_americas:
 
