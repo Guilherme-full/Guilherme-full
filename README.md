@@ -15,6 +15,9 @@
 <a href="https://www.facebook.com/profile.php?id=100008329981577" target="_blank">
     <img align="center"  alt="Guilherme-Facebook" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
 </a>
+<a href="http://api.whatsapp.com/send?phone=5511948778722" target="_blank">
+    <img align="center"  alt="Guilherme-Linkedin" heigth= "30" width ="65" src="https://img-premium.flaticon.com/png/512/3670/3670133.png?token=exp=1623268089~hmac=638aab12c161a2c5c687026cfc362c0c">
+</a>
 
 ## Linguagens e Ferramentas
 <img align="center"  alt="JavaScript" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
