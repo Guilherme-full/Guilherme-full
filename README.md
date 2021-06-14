@@ -16,7 +16,7 @@
     <img align="center"  alt="Guilherme-Facebook" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
 </a>
 <a href="http://api.whatsapp.com/send?phone=5511948778722" target="_blank">
-    <img align="center"  alt="Guilherme-Linkedin" heigth= "30" width ="65" src="https://img-premium.flaticon.com/png/512/3670/3670133.png?token=exp=1623268089~hmac=638aab12c161a2c5c687026cfc362c0c">
+    <img align="center"  alt="Guilherme-Whatsapp" heigth= "30" width ="65" src="https://image.flaticon.com/icons/png/512/185/185988.png">
 </a>
 
 ## Linguagens e Ferramentas
