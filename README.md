@@ -21,7 +21,8 @@
 
 ## Linguagens e Ferramentas
 <img align="center"  alt="Python" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
-<img align="center"  alt="Mysql" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
+<img align="center"  alt="Mysql" heigth= "60" width ="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
+<img align="center"  alt="Sql Server" heigth= "60" width ="80" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></img>
 <img align="center"  alt="Git" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
 <img align="center"  alt="Figma" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
 <img align="center"  alt="HTML5" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
