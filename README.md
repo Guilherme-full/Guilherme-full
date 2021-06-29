@@ -24,7 +24,6 @@
 <img align="center"  alt="Mysql" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
 <img align="center"  alt="Git" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
 <img align="center"  alt="Figma" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
-<img align="center"  alt="Figma" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"></img>
 <img align="center"  alt="HTML5" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
 <img align="center"  alt="CSS" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></img>
 <img align="center"  alt="Intellij" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></img>
