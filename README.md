@@ -20,7 +20,6 @@
 </a>
 
 ## Linguagens e Ferramentas
-<img align="center"  alt="JavaScript" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></img>
 <img align="center"  alt="Python" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <img align="center"  alt="Mysql" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
 <img align="center"  alt="Git" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
