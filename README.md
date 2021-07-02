@@ -9,7 +9,7 @@
 * Como me Encontrar :e-mail: [guilherme.souza598@etec.sp.gov.br]() / [guilhermexaviercomerci@gmail.com]()
 
 ## Contate-me
-<a href="www.linkedin.com/in/guilhermexav" target="_blank">
+<a href="https://www.linkedin.com/in/guilhermexav/" target="_blank">
     <img align="center"  alt="Guilherme-Linkedin" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
 <a href="https://www.facebook.com/profile.php?id=100008329981577" target="_blank">
