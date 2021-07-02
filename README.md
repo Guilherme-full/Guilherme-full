@@ -15,9 +15,7 @@
 <a href="https://www.facebook.com/profile.php?id=100008329981577" target="_blank">
     <img align="center"  alt="Guilherme-Facebook" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
 </a>
-<a href="http://api.whatsapp.com/send?phone=5511948778722" target="_blank">
-    <img align="center"  alt="Guilherme-Whatsapp" heigth= "30" width ="65" src="https://image.flaticon.com/icons/png/512/185/185988.png">
-</a>
+
 
 ## Linguagens e Ferramentas
 <img align="center"  alt="Python" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
