@@ -21,7 +21,7 @@
 <img align="center"  alt="Python" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
 <img align="center"  alt="Mysql" heigth= "60" width ="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></img>
 <img align="center"  alt="Sql Server" heigth= "60" width ="80" src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"></img>
-<img align="center"  alt="C#" heigth= "120" width ="120" src="https://o.remove.bg/downloads/ffe667e1-9e5b-4cf5-a338-104460c51c77/code-in-c-sharp-for-your-project-removebg-preview.png"></img>
+<img align="center"  alt="C#" heigth= "40" width ="60" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67"></img>
 <img align="center"  alt="Git" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></img>
 <img align="center"  alt="Figma" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></img>
 <img align="center"  alt="HTML5" heigth= "40" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></img>
