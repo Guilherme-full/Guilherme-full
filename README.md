@@ -12,9 +12,7 @@
 <a href="https://www.linkedin.com/in/guilhermexav/" target="_blank">
     <img align="center"  alt="Guilherme-Linkedin" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </a>
-<a href="https://www.facebook.com/profile.php?id=100008329981577" target="_blank">
-    <img align="center"  alt="Guilherme-Facebook" heigth= "30" width ="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-plain.svg">
-</a>
+
 
 
 ## Linguagens e Ferramentas
